@@ -1,0 +1,34 @@
+{
+  "Contatos": [
+    {
+      "id": "1",
+      "imagem": "./imagens/1.jpg",
+      "nome": "Vini",
+      "telefone": "1194845896582"
+    },
+    {
+      "id": "2",
+      "imagem": "./imagens/2.jpg",
+      "nome": "Artur",
+      "telefone": "1194845896582"
+    },
+    {
+      "id": "4",
+      "imagem": "./imagens/4.jpg",
+      "nome": "Vanda",
+      "telefone": "1194845896582"
+    },
+    {
+      "imagem": "./imagens/5.jpg",
+      "nome": "Testando",
+      "telefone": "78956",
+      "id": "Btj7xF2"
+    },
+    {
+      "imagem": "./imagens/6.jpg",
+      "nome": "Gabi",
+      "telefone": "11985869585",
+      "id": "0moR5ca"
+    }
+  ]
+}
